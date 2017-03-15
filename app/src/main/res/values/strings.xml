@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCoverage</string>
+    <string name="change">Change</string>
+</resources>
